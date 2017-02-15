@@ -1,0 +1,35 @@
+PODS:
+  - Alamofire (3.3.1)
+  - Realm (1.0.0):
+    - Realm/Headers (= 1.0.0)
+  - Realm/Headers (1.0.0)
+  - RealmSwift (1.0.0):
+    - Realm (= 1.0.0)
+  - SwiftSpinner (0.9.5)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.3)
+  - RealmSwift (= 1.0.0)
+  - SwiftSpinner
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
+
+EXTERNAL SOURCES:
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  SwiftyJSON:
+    :commit: 2a5b70f06001316d4fb54501edc70b4084705da0
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  Alamofire: 369bc67b6f5ac33ded3648d7bd21c5bfb91c2ecc
+  Realm: e15cd8e7c11d3e576f628ba0b7cb855269b4991c
+  RealmSwift: 3229306d020d96f83b335f87a0dcbf2cef0e6a2b
+  SwiftSpinner: c6585a0ae5c67eb33e737695cce88f0262008cce
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: 20d1f8d4180de18ae2a62fe8204a54f57bab091e
+
+COCOAPODS: 1.0.0

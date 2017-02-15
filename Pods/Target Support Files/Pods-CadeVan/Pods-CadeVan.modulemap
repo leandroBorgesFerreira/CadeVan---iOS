@@ -1,0 +1,6 @@
+framework module Pods_CadeVan {
+  umbrella header "Pods-CadeVan-umbrella.h"
+
+  export *
+  module * { export * }
+}

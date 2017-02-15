@@ -1,0 +1,6 @@
+framework module Pods_CadeVanTests {
+  umbrella header "Pods-CadeVanTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
